@@ -1,0 +1,2 @@
+<!DOCTYPE html><html><head></head><body>04/18/19:23:13:44[INFO]:: Hello Logger
+</body></html>

@@ -1,0 +1,7 @@
+﻿  Logger.cpp
+c:\users\aruny\source\repos\multiformatlogger\logger.cpp(160): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'const wchar_t *'
+  c:\users\aruny\source\repos\multiformatlogger\logger.cpp(160): note: consider using '%ls' in the format string
+  c:\users\aruny\source\repos\multiformatlogger\logger.cpp(160): note: consider using '%lls' in the format string
+  c:\users\aruny\source\repos\multiformatlogger\logger.cpp(160): note: consider using '%Ls' in the format string
+  c:\users\aruny\source\repos\multiformatlogger\logger.cpp(160): note: consider using '%ws' in the format string
+  Logger2017.vcxproj -> C:\Users\aruny\source\repos\MultiFormatLogger\Debug\Logger2017.lib
